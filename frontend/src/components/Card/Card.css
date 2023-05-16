@@ -1,0 +1,17 @@
+.card{
+    max-width: 250px;
+    max-height: 250px;
+    margin: auto;
+    min-width: 250px;
+    min-height: 250px;
+}
+.media{
+    padding-top: 56.25%;
+}
+.container-card{
+    padding: 50px;
+    min-width: auto;
+    max-width: 100%;
+    min-height: auto;
+    max-width: 100%;
+}
